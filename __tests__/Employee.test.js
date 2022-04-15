@@ -26,8 +26,6 @@ test("tests privacy of employee object attributes", () => {
     expect(employee.email).toBe(undefined);
    
     expect(employee.id).toBe(undefined);
-   
-    expect(employee.role).toBe(undefined);
 });
 
 test("tests public data methods of employee objects", () => {
