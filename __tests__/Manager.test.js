@@ -50,5 +50,5 @@ test("tests public data methods of engineer objects", () => {
    
     expect(manager.getOfficeNumber()).toBe('12345');
 
-    expect(manager.getRole()).toBe('Engineer');
+    expect(manager.getRole()).toBe('Manager');
 });
