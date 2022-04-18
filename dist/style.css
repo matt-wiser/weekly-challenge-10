@@ -1,0 +1,18 @@
+nav{
+    text-align: center;
+    padding: 50px 0 50px 0;
+    margin-bottom: 75px;
+}
+
+.card-footer{
+    padding: 30px;
+}
+
+.glyph{
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(103%) contrast(103%);
+}
+
+h6{
+    display: inline-block;
+    margin-left: 10px;
+}

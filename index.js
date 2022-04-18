@@ -48,7 +48,7 @@ const managerQuestions = [
     },
     {
         type: 'input',
-        name: 'phone',
+        name: 'officeNumber',
         message: "What is the team manager's office phone number? (Required)",
         validate: phoneInput => {
             if (phoneInput) {
@@ -169,7 +169,7 @@ const engineerQuestions = [
     },
     {
         type: 'input',
-        name: 'phone',
+        name: 'github',
         message: "What is the engineer's GitHub username? (Required)",
         validate: githubInput => {
             if (githubInput) {
