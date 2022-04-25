@@ -18,7 +18,7 @@ Create an interactive command line interface program using Node.js, inquirer, th
 * Once all dependencies have been installed initiate the application by entering the command "node index"
 * Follow the onscreen prompts in order to produce a professional looking HTML roster for your team
 * Once all input has been given the produced HTML file can be found within the dist folder in the root directory of the project
-* [Click Here for a Video Walkthrough](#)
+* [Click Here for a Video Walkthrough](https://www.youtube.com/watch?v=1gCK1JrH3VQ)
 
 
 ## Built By
