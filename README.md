@@ -1,4 +1,4 @@
-# Professional Readme Generator
+# Team Roster Generator
 
 ## Purpose
 Create an interactive command line interface program using Node.js, inquirer, the file system module, and class based object inheritance to produce a professional team roster website.
@@ -24,5 +24,4 @@ Create an interactive command line interface program using Node.js, inquirer, th
 ## Built By
 * Matthew Wiser
 
-![Screenshot](/assets/screenshot.png)
 ![Screenshot](/assets/screenshot2.png)
